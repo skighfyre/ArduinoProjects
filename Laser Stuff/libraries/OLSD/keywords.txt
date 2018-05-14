@@ -1,0 +1,5 @@
+OLSD	KEYWORD1
+standard	KEYWORD1
+Init	KEYWORD2
+SetOutputRate	KEYWORD2
+OutputPoint	KEYWORD2
